@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: Bike_weather
+    database: bike_db
+    tables:
+      - name: bike
+      - name: weather
